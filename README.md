@@ -1,7 +1,7 @@
 # Products List
 |Product series| Model Type | Hardware version (Rev.)| Link |
 |---|---|---|---|
-|              | UC-8112|1.0|[kernel 4.4](https://github.com/Moxa-Linux/UC-8100-series_V2.0) |
+|              | UC-8112|1.0|[kernel 4.1](https://github.com/Moxa-Linux/UC-8100-series_V2.0) |
 |              | UC-8162|1.0|[bootloader 1.0]()    |
 |              | UC-8132|1.0|[examplecode]()       |
 |              | UC-8131|1.0|[utility]()           |
