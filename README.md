@@ -10,7 +10,6 @@
 |              | UC-8132|2.0|examplecode     |  |
 |              | UC-8131|2.0|utility         |  |
 
-
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -27,10 +26,10 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>Andy Chu (朱世傑)</o:Author>
   <o:LastAuthor>Andy Chu (朱世傑)</o:LastAuthor>
-  <o:Revision>1</o:Revision>
-  <o:TotalTime>7</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>12</o:TotalTime>
   <o:Created>2018-11-09T07:21:00Z</o:Created>
-  <o:LastSaved>2018-11-09T07:28:00Z</o:LastSaved>
+  <o:LastSaved>2018-11-09T07:33:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
   <o:Words>48</o:Words>
   <o:Characters>280</o:Characters>
@@ -43,8 +42,8 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
-<link rel=dataStoreItem href="Product%20series.files/item0001.xml"
-target="Product%20series.files/props002.xml">
+<link rel=dataStoreItem href="Product%20series.files/item0006.xml"
+target="Product%20series.files/props007.xml">
 <link rel=themeData href="Product%20series.files/themedata.thmx">
 <link rel=colorSchemeMapping
 href="Product%20series.files/colorschememapping.xml">
@@ -800,146 +799,159 @@ table.MsoTableGrid
 <div class=WordSection1 style='layout-grid:18.0pt'>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=0
- style='width:418.05pt;border-collapse:collapse;border:none;mso-border-alt:
- solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ style='width:662.3pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td width=87 valign=top style='width:65.7pt;border:solid windowtext 1.0pt;
+  <td width=120 valign=top style='width:89.8pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>Product series</span></p>
   </td>
-  <td width=78 valign=top style='width:59.5pt;border:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>Model Type</span></p>
   </td>
-  <td width=93 valign=top style='width:70.5pt;border:solid windowtext 1.0pt;
+  <td width=180 valign=top style='width:134.95pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>Hardware version (Rev.)</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border:solid windowtext 1.0pt;
+  <td width=111 valign=top style='width:83.3pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>Software type</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border:solid windowtext 1.0pt;
+  <td width=373 valign=top style='width:279.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
   solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>Link</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
-  <td width=87 rowspan=8 style='width:65.7pt;border:solid windowtext 1.0pt;
+  <td width=120 rowspan=8 style='width:89.8pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>UC-8100
   series</span></p>
   </td>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8112</span></p>
   </td>
-  <td width=93 rowspan=4 style='width:70.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=180 rowspan=4 style='width:134.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>1.0</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>kernel 4.1</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>https://github.com/Moxa-Linux/UC-8100-series_V2.0</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:2'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8162</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>bootloader 1.0</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:3'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8132</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span class=SpellE><span lang=EN-US>examplecode</span></span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:4'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8131</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>utility</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#BDD6EE;mso-background-themecolor:
+  accent1;mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:5'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8112</span></p>
   </td>
-  <td width=93 rowspan=4 style='width:70.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=180 rowspan=4 style='width:134.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>2.0</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>kernel 4.4</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -947,19 +959,19 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:6'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8162</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>bootloader 1.x</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -967,19 +979,19 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:7'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8132</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span class=SpellE><span lang=EN-US>examplecode</span></span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -987,19 +999,19 @@ table.MsoTableGrid
   </td>
  </tr>
  <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes'>
-  <td width=78 valign=top style='width:59.5pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  <td width=100 valign=top style='width:74.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>UC-8131</span></p>
   </td>
-  <td width=111 valign=top style='width:83.6pt;border-top:none;border-left:
+  <td width=111 valign=top style='width:83.3pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span lang=EN-US>utility</span></p>
   </td>
-  <td width=188 valign=top style='width:138.75pt;border-top:none;border-left:
+  <td width=373 valign=top style='width:279.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
@@ -1015,3 +1027,4 @@ table.MsoTableGrid
 </body>
 
 </html>
+
